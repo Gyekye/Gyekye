@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 🖐️, 
 
-<!--
-**Gyekye/Gyekye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Gyekye, an incoming mathematician and a developer.  
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/themisir)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on bettering my mental, physical self 
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about abstract concepts and geeky stuff
+- 📫 Reach me on Instagram
+
+My favourites for making job done are:
+
+- Flutter for mobile dev
+- Django for backend dev
+- PostgreSQL for hosting and managing structed data
+- Nginx for hosting apps
+- Circle CI for CI/CD
+- Django Rest Framework for making Restful APIs
+
