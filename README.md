@@ -4,7 +4,7 @@ I am Gyekye, an incoming mathematician and a developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/themisir)
 [![Last Commit](https://img.shields.io/github/last-commit/Gyekye/Gyekye?style=social)](https://github.com/themisir)
-[![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/themisir)
+[![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_men)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/themisir)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/themisir)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/themisir)
