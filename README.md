@@ -4,6 +4,7 @@ I am Gyekye, an incoming mathematician and a developer.
 
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/themisir)
 [![Last Commit](https://img.shields.io/github/last-commit/Gyekye/Gyekye?style=social)](https://github.com/themisir)
+[![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/themisir)
 - 🔭 I’m currently working on bettering my mental, physical and spiritual health
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about abstract concepts and geeky stuff
