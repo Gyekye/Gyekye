@@ -4,12 +4,10 @@ I am Gyekye, an incoming mathematician and a developer.
 
 #### GitHub Stats
 
-
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
 [![Last Commit](https://img.shields.io/github/last-commit/Gyekye/Gyekye?style=social)](https://github.com/Gyekye)
 
 #### Skills
-
 
 [![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_men)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Gyekye)
@@ -18,13 +16,15 @@ I am Gyekye, an incoming mathematician and a developer.
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Gyekye)
 [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/Gyekye)
 
-Currently:
+#### Currently
+
 - 🔭 I’m currently working on bettering my mental, physical and spiritual health
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about abstract concepts and geeky stuff
 - 📫 Reach me on Instagram
 
-My favourites for making job done are:
+#### ToolBox
+
 - Flutter for mobile dev
 - Django for backend dev
 - PostgreSQL for hosting and managing structed data
