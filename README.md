@@ -1,6 +1,6 @@
 ### Hi there 🖐️, 
 
-I am Gyekye, an incoming mathematician and a developer.  
+I am Gyekye, a mathematician and a developer.  
 
 #### GitHub Stats
 
