@@ -18,7 +18,7 @@ I am Gyekye, a mathematician and a developer.
 
 #### Currently
 
-- 🔭 I’m currently working on bettering my mental, physical and spiritual health
+- 🔭 I’m currently working on becoming a frontend developement
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about abstract concepts and geeky stuff
 - 📫 Reach me on Instagram
@@ -26,6 +26,7 @@ I am Gyekye, a mathematician and a developer.
 #### ToolBox
 
 - Flutter for mobile dev
+- Html,css,sass and js for frontends
 - Django for backend dev
 - PostgreSQL for hosting and managing structed data
 - Nginx for hosting apps
