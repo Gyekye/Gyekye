@@ -18,10 +18,10 @@ I am Gyekye, a mathematician and a developer.
 
 #### Currently
 
-- 🔭 I’m currently working on becoming a frontend developement
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on becoming a fullstack developer.
+- 🌱 I’m currently learning javascript
 - 💬 Ask me about abstract concepts and geeky stuff
-- 📫 Reach me on Instagram
+- 📫 Reach me on Instagram @pina_men
 
 #### ToolBox
 
