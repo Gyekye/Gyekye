@@ -33,9 +33,10 @@ I am Gyekye, a mathematician and a developer.
 - Circle CI for CI/CD
 - Django Rest Framework for making Restful APIs
 
+#### Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="Gyekye" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inenarratus&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="inenarratus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="Gyekye" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inenarratus&theme=dark" alt="inenarratus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gyekye&theme=dark" alt="Gyekye" /></p>
