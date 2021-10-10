@@ -5,7 +5,7 @@ I am Gyekye, a mathematician and a developer.
 #### GitHub Stats
 
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
-[![Last Commit](https://img.shields.io/github/last-commit/Gyekye?style=social)](https://github.com/Gyekye)
+[![Last Commit](https://img.shields.io/github/last-commit/Gyekye/Gyekye?style=social)](https://github.com/Gyekye)
 
 #### Skills
 
