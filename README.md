@@ -25,7 +25,7 @@ I am Gyekye, a mathematician and a developer.
 
 #### ToolBox
 
-- Flutter for mobile dev
+- React Native for mobile dev
 - Html,css,sass and js for frontends
 - Django for backend dev
 - PostgreSQL for hosting and managing structed data
