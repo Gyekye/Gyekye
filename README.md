@@ -1,8 +1,7 @@
 ### Hi there 🖐️, 
 
-I am Gyekye, a fullstack Developer.  
+I am Gyekye, a proud fullstack Developer.  
 
-#### GitHub Stats
 
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
 [![Last Commit](https://img.shields.io/github/last-commit/Gyekye/Gyekye?style=social)](https://github.com/Gyekye)
