@@ -30,7 +30,7 @@ I am Gyekye, a proud fullstack Developer.
 - Circle CI for CI/CD
 - Django Rest Framework for making Restful APIs
 
-#### Stats
+#### Stat
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="Gyekye" /></p>
 
