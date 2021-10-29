@@ -1,6 +1,6 @@
 ### Hi there 🖐️, 
 
-I am Gyekye, a proud fullstack Developer.  
+I am Gyekye, a software developer and entrepreneur with a passion for building and creating..  
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
