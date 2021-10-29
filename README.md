@@ -22,7 +22,6 @@ I am Gyekye, a proud fullstack Developer.
 
 #### ToolBox
 
-- React Native for mobile dev
 - Html,css,sass and js for frontends
 - Django for backend dev
 - PostgreSQL for hosting and managing structed data
