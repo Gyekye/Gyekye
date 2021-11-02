@@ -33,6 +33,6 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="Gyekye" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="Gyekye" style="display:block" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="Gyekye" style="display:inline-block" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gyekye&theme=dark" alt="Gyekye" /></p>
