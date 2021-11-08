@@ -1,4 +1,4 @@
-### Hi 🖐️, 
+### Hi there 🖐️, 
 
 I am Gyekye, a software developer and entrepreneur with a passion for building and creating efficient and reliable software.
 
