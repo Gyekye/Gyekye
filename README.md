@@ -24,7 +24,7 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 #### ToolBox
 
 - Html,css,sass and js for frontends
-- Django for backend dev
+- Django and Nod js for backend dev
 - PostgreSQL for hosting and managing structed data
 - Nginx for hosting apps
 - Circle CI for CI/CD
