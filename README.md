@@ -22,15 +22,6 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 - 💬 Ask me about abstract concepts and geeky stuff
 - 📫 Reach me on Instagram @pina_men
 
-#### ToolBox
-
-- Html,css,sass and js for frontends
-- Django and Nodejs for backend dev
-- PostgreSQL for hosting and managing structed data
-- Nginx for hosting apps
-- Circle CI for CI/CD
-- Django Rest Framework for making Restful APIs
-
 #### Stat
 
 <p style="display:inline-block; margin-bottom:8px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="Gyekye" /></p>
