@@ -12,7 +12,7 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 [![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_men)
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Gyekye)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Gyekye)
-[![Javascript](https://img.shields.io/badge/Javascript-E95420?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Gyekye)
+[![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Gyekye)
 [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/Gyekye)
 
 #### Currently
