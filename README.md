@@ -18,7 +18,7 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 #### Currently
 
 - 🔭 I’m currently working on becoming a fullstack developer.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning NodeJs
 - 💬 Ask me about abstract concepts and geeky stuff
 - 📫 Reach me on Instagram @pina_men
 
