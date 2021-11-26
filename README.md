@@ -3,10 +3,8 @@
 I am Gyekye, a software developer and entrepreneur with a passion for building and creating efficient and reliable software.
 
 
-
-
-
 ### 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/OS-ubuntu-informational?style=flat&logo=ubuntu&logoColor=orange&color=orange)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
@@ -17,9 +15,14 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=#272E35&color=grey)
 
 
+### 🤔 Currently?
+
+- 🔭 I’m currently working on becoming a fullstack dev.
+- 🌱 I’m currently learning Node js
 
 
 ### &#x1f4c8; GitHub Stats
+
   <a href="https://github.com/Gyekye/Gyekye">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gyekye&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gyekye's GitHub Stats" />
   </a>
