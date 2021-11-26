@@ -1,28 +1,42 @@
-### Heya 🖐️, 
+### Hi there  <img src="https://raw.githubusercontent.com/Gyekye/Gyekye/master/wave.gif" width="30px">, 
 
 I am Gyekye, a software developer and entrepreneur with a passion for building and creating efficient and reliable software.
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
-[![Last Commit](https://img.shields.io/github/last-commit/Gyekye/Gyekye?style=social)](https://github.com/Gyekye)
 
-#### Skills
 
-[![@pina_men](https://img.shields.io/badge/pina_men-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_men)
-[![python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Gyekye)
-[![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Gyekye)
-[![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Gyekye)
-[![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/Gyekye)
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
-#### Currently
 
-- 🔭 I’m currently working on becoming a fullstack developer.
-- 🌱 I’m currently learning NodeJs
-- 💬 Ask me about abstract concepts and geeky stuff
-- 📫 Reach me on Instagram @pina_men
 
-#### Stat
 
-<p style="display:inline-block; margin-bottom:8px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="Gyekye" /></p>
-<p style="display:inline">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gyekye&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="Gyekye"  /></p><p style="display:inline"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gyekye&theme=dark" alt="Gyekye" /></p>
+## &#x1f4c8; GitHub Stats
+
+
+
+  <a href="https://github.com/quenginedev/quenginedev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quenginedev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Quenginedev's GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/quenginedev/hami-express">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quenginedev&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+  <a href="https://github.com/quenginedev/reGQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=reGQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+
+
+  <a href="https://github.com/quenginedev/hami-express">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=quenginedev&repo=hami-express&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <
