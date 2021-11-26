@@ -1,4 +1,4 @@
-## Hi there  <img src="https://raw.githubusercontent.com/Gyekye/Gyekye/master/wave.gif" width="30px">, 
+## Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">, 
 
 I am Gyekye, a software developer and entrepreneur with a passion for building and creating efficient and reliable software.
 
