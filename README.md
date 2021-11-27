@@ -5,14 +5,17 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 
 ### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Visual-Studio-informational?style=flat&logo=visual-studio-code&logoColor=purple&color=purple)
 ![](https://img.shields.io/badge/OS-ubuntu-informational?style=flat&logo=ubuntu&logoColor=orange&color=orange)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=#272E35&color=grey)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
 ![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=green&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=blue)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=red&color=red)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=#272E35&color=grey)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=blue)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=green&color=2bbc8a)
+
+
+
 
 
 ### 🤔 Currently?
@@ -36,4 +39,4 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
   </a>
 
   <a href="https://github.com/Gyekye/js-components.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyekye&repo=js-components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gyekye&repo=node-rookie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
