@@ -21,7 +21,7 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 ### 🤔 Currently?
 
 - 🔭 I’m currently working on becoming a fullstack dev.
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning React js
 
 
 ### &#x1f4c8; GitHub Stats
