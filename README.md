@@ -27,13 +27,13 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="redux" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
 
 
 ## 👾  What I am interested in learning at some point
 
+[<img src="https://img.shields.io/static/v1?label=&message=redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="redux" height="25" />][learning_now_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
