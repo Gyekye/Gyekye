@@ -1,4 +1,4 @@
-## Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, 
+## Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, ![](https://visitor-badge.glitch.me/badge?page_id=Gyekye.Gyekye)
 
 I am Gyekye, a software developer and entrepreneur with a passion for building and creating efficient and reliable software.
 
@@ -47,7 +47,7 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 &nbsp;
 [<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=0077B5" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/pina_men/)
 &nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=Gyekye.Gyekye)
+
  
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
