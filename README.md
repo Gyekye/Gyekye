@@ -47,6 +47,8 @@ I am Gyekye, a software developer and entrepreneur with a passion for building a
 &nbsp;
 [<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=0077B5" alt="Instagram logo" title="Instagram" height="25" />](https://www.instagram.com/pina_men/)
 
+ ![Snake animation](https://github.com/Gyekye/Gyekye/blob/output/github-contribution-grid-snake.svg)
+ 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
