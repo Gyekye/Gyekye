@@ -1,6 +1,6 @@
 ## Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">,
 ![](https://visitor-badge.glitch.me/badge?page_id=Gyekye.Gyekye)
-[![GitHub followers](https://img.shields.io/github/followers/keezysilencer?style=social)](https://github.com/Gyekye)
+[![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
 
 I am Gyekye, a software developer and entrepreneur with a passion for building and creating efficient and reliable software.
 
