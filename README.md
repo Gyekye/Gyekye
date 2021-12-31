@@ -36,13 +36,13 @@ I am Gyekye, a self taught react and django developer with passion for building 
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/static/v1?label=&message=redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="redux" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/FastApi-282C34?logo=fastapi&logoColor=47A248" alt="FastApi logo" title="FastApi" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=FFFFFF" alt="jest logo" title="Jest" height="25" />][learning_next_anchor]
 
 ## 🔍  Where to find me
 
