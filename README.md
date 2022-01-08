@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Gyekye.Gyekye)
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
 
-I am Gyekye, a self taught react and django developer with passion for building and creating efficient and reliable software.
+I am Gyekye, a self taught react and django developer with passion for building efficient and reliable software.
 
 
 ## 🛠  Technologies and tools
