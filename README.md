@@ -51,7 +51,7 @@ I am Gyekye, a self taught react and django developer with passion for building 
 &nbsp;
 [<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=0077B5" alt="Twitter logo" title="twitter" height="25" />](https://www.twitter.com/Gyepina/)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="linkedin" height="25" />](https://www.instagram.com/pina_men/)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="linkedin" height="25" />](https://www.linkedin.com/in/richmond-gyekye-714028203)
 
  
 [tech_tools_anchor]: #bonjour--
