@@ -29,9 +29,9 @@ I am Gyekye, a self taught react and django developer with passion for building 
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />]
-[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />]
-[learning_now_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />][learning_now_anchor]
+
 
 ## 🔍  Where to find me
 
