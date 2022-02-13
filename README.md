@@ -17,19 +17,21 @@ I am Gyekye, a self taught react and fastapi developer with passion for building
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=green" alt="django logo" title="django" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue" alt="React logo" title="React" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=FFFFFF" alt="jest logo" title="Jest" height="25" />][learning_next_anchor]
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue" alt="React logo" title="React" height="25" />][learning_now_anchor]
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-[<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=FFFFFF" alt="jest logo" title="Jest" height="25" />][learning_next_anchor]
 [<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />][learning_now_anchor]
-
+[<img src="https://img.shields.io/badge/NextJs-282C34?logo=next&logoColor=47A248" alt="NextJs logo" title="NextJs" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/FastApi-282C34?logo=fastapi&logoColor=47A248" alt="FastApi logo" title="FastApi" height="25" />][learning_next_anchor]
 ## 👾  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />][learning_now_anchor]
-[<img src="https://img.shields.io/badge/FastApi-282C34?logo=fastapi&logoColor=47A248" alt="FastApi logo" title="FastApi" height="25" />][learning_next_anchor]
+
+
 
 
 
