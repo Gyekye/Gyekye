@@ -21,7 +21,7 @@
 ## 📖  What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />][learning_now_anchor]
-[<img src="https://img.shields.io/badge/NextJs-282C34?logo=next&logoColor=47A248" alt="NextJs logo" title="NextJs" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Next-282C34?logo=nextjs&logoColor=47A248" alt="NextJs logo" title="NextJs" height="25" />][learning_next_anchor]
 
 ## 👾  What I am interested in learning at some point
 
