@@ -1,4 +1,4 @@
-## Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 ![](https://visitor-badge.glitch.me/badge?page_id=Gyekye.Gyekye)
 [![GitHub followers](https://img.shields.io/github/followers/Gyekye?style=social)](https://github.com/Gyekye)
 
