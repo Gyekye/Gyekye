@@ -40,9 +40,6 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     </td>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -59,9 +56,6 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a> 
-    </td>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     </td>
   </tr>
 </table>
