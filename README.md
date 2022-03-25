@@ -47,7 +47,8 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"                      height="40"/> 
       </a>
     </td>
-    <td align="center" width="96">
+  <tr>
+        <td align="center" width="96">
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
       </a> 
@@ -57,6 +58,7 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a> 
     </td>
+  </tr>
   </tr>
 </table>
 
