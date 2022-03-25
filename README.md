@@ -29,6 +29,12 @@
 [<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />][learning_now_anchor]
 
 
+## ⏲️ Productivity Metric
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 
 
 
