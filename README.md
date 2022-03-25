@@ -27,9 +27,6 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
 
 <table>
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"                      height="40"/> 
@@ -43,11 +40,11 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
     <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
     </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    </td>
     <td align="center" width="96">
        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"                     height="40"/>      
@@ -62,6 +59,9 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a> 
+    </td>
+    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     </td>
   </tr>
 </table>
