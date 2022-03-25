@@ -29,13 +29,6 @@
 [<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />][learning_now_anchor]
 
 
-## ⏲️ Productivity Metric
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
 ## 🔍  Where to find me
 
 
@@ -43,7 +36,10 @@
 [<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter&logoColor=0077B5" alt="Twitter logo" title="twitter" height="25" />](https://www.twitter.com/Gyepina/)
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="linkedin" height="25" />](https://www.linkedin.com/in/richmond-gyekye-714028203)
 
- 
-[tech_tools_anchor]: #bonjour--
-[learning_now_anchor]: #learning-now
-[learning_next_anchor]: #learning-next
+
+## ⏲️ Productivity Metric
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
