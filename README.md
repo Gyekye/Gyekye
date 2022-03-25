@@ -11,22 +11,22 @@
 <a name="learning-now"></a>
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue" alt="React logo" title="React" height="25" />][learning_now_anchor]
-[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][learning_next_anchor]
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=blue" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />]
+[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />]
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=blue" alt="React logo" title="React" height="25" />]
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=blue" alt="Python logo" title="Python" height="25" />]
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />][learning_now_anchor]
-[<img src="https://img.shields.io/badge/NextJs-282C34?logo=nextjs&logoColor=47A248" alt="NextJs logo" title="NextJs" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Typescript-282C34?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />]
+[<img src="https://img.shields.io/badge/NextJs-282C34?logo=nextjs&logoColor=47A248" alt="NextJs logo" title="NextJs" height="25" />]
 
 ## 👾  What I am interested in learning at some point
 
-[<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/static/v1?label=&message=Redux&color=282C34&logo=redux&logoColor=DB7093" alt="Redux" title="Redux" height="25" />]
 
 
 ## 🔍  Where to find me
