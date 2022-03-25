@@ -34,7 +34,7 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-plain.svg" alt="nextjs" width="40" height="40"/>
       </a> 
     </td>
     <td align="center" width="96">
