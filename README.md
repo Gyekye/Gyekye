@@ -1,4 +1,4 @@
-### 😄 Hello there! I'm Pinamen
+### 😄 Hello there, I'm Pinamen
 > What I Do 
 
 If it is about crafting highly **accessible & unique web experiences**, then I can do it !. 🫀
