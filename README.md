@@ -23,7 +23,7 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
 <br>
 
 ### 🛠 Frameworks and tools
-> Languages, frameworks, and other things that I like to work with 
+> Tools for getting the work done
 
 <table>
   <tr>
