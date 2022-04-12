@@ -16,7 +16,7 @@ If it is about crafting highly **accessible & unique web experiences**, then I c
 <br>
 
 ### 🤳 Currently
-> My current status
+> What I am doing at the moment
 
 - :seedling: &nbsp; I’m learning **Building UIs with Flutter**
 
