@@ -18,7 +18,7 @@ If it is about crafting highly **accessible and unique web experiences**, then I
 ### 🤳 Currently
 > What I am doing at the moment
 
-- :seedling: &nbsp; I’m learning **Building UIs with Flutter**
+- :seedling: &nbsp; Building cross platform mobile apps with **flutter**
 
 <br>
 
