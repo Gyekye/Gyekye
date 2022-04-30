@@ -1,4 +1,4 @@
-### 😄 Hello there, I'm Pinamamg
+### 😄 Hello, I'm Pinamamg
 > What I Do 
 
 If it is about crafting highly **accessible and unique web experiences**, then I can do it !. 🫀
