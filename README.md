@@ -111,20 +111,16 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Dart                     1 hr 32 mins        █████████████████████░░░░   85.09% 
-Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 49 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tayp-mobile              1 hr 49 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 49 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -145,7 +141,7 @@ SCSS                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Gyekye/Gyekye/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 18:52:30 UTC
+ Last Updated on 31/05/2022 18:54:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
