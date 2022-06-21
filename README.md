@@ -68,11 +68,11 @@ If it is about crafting highly **accessible and unique web experiences**, then I
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 643 Contributions in the Year 2022
  > 
 > 📦 157.0 kB Used in GitHub's Storage 
  > 
@@ -111,21 +111,17 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Dart                     11 hrs 55 mins      █████████████████████████   99.66% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Dart                     6 hrs 52 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Android Studio           11 hrs 58 mins      █████████████████████████   100.0%
+Android Studio           6 hrs 52 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tayp-mobile              8 hrs 27 mins       █████████████████░░░░░░░░   70.65% 
-tdd_hive_todo            3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.35%
+tayp-mobile              5 hrs 43 mins       ████████████████████░░░░░   83.28% 
+tdd_hive_todo            1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.72%
 
 💻 Operating System: 
-Linux                    11 hrs 58 mins      █████████████████████████   100.0%
+Linux                    6 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -146,7 +142,7 @@ SCSS                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Gyekye/Gyekye/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/06/2022 18:51:56 UTC
+ Last Updated on 21/06/2022 18:50:53 UTC
 <!--END_SECTION:waka-->
 
 <br>
