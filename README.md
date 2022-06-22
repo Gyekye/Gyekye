@@ -68,11 +68,11 @@ If it is about crafting highly **accessible and unique web experiences**, then I
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 643 Contributions in the Year 2022
+> 🏆 651 Contributions in the Year 2022
  > 
 > 📦 157.0 kB Used in GitHub's Storage 
  > 
@@ -85,20 +85,20 @@ If it is about crafting highly **accessible and unique web experiences**, then I
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-🌆 Daytime    163 commits    ██████░░░░░░░░░░░░░░░░░░░   25.12% 
-🌃 Evening    249 commits    █████████░░░░░░░░░░░░░░░░   38.37% 
-🌙 Night      151 commits    █████░░░░░░░░░░░░░░░░░░░░   23.27%
+🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+🌆 Daytime    164 commits    ██████░░░░░░░░░░░░░░░░░░░   25.27% 
+🌃 Evening    241 commits    █████████░░░░░░░░░░░░░░░░   37.13% 
+🌙 Night      155 commits    ██████░░░░░░░░░░░░░░░░░░░   23.88%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
 Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
 Thursday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-Friday       114 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
+Friday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
 Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
 Sunday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25%
 
@@ -111,17 +111,16 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Abidjan
 
 💬 Programming Languages: 
-Dart                     6 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           6 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tayp-mobile              5 hrs 43 mins       ████████████████████░░░░░   83.28% 
-tdd_hive_todo            1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.72%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -142,7 +141,7 @@ SCSS                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Gyekye/Gyekye/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 18:50:53 UTC
+ Last Updated on 22/06/2022 18:53:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
