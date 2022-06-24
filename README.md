@@ -105,37 +105,6 @@ Sunday       73 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Abidjan
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-CSS                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
-Dart                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-SCSS                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.89%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/Gyekye/Gyekye/main/charts/bar_graph.png) 
