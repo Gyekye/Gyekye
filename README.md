@@ -66,51 +66,7 @@ If it is about crafting highly **accessible and unique web experiences**, then I
 > Metrics from Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 651 Contributions in the Year 2022
- > 
-> 📦 157.0 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-🌆 Daytime    164 commits    ██████░░░░░░░░░░░░░░░░░░░   25.27% 
-🌃 Evening    241 commits    █████████░░░░░░░░░░░░░░░░   37.13% 
-🌙 Night      155 commits    ██████░░░░░░░░░░░░░░░░░░░   23.88%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Wednesday    98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Thursday     109 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
-Friday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Sunday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Gyekye/Gyekye/main/charts/bar_graph.png) 
-
-
- Last Updated on 22/06/2022 18:53:32 UTC
 <!--END_SECTION:waka-->
 
 <br>
