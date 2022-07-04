@@ -19,5 +19,5 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
-          SHOW_TOTAL_CODE_TIME: false
+          SHOW_TOTAL_CODE_TIME: true
           SHOW_PROFILE_VIEWS: false
