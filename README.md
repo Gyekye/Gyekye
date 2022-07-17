@@ -1,7 +1,15 @@
 ### 😄 Hello, I'm Pinamamg
-> What I Do 
+> What Am I ? 
 
-If it is about crafting highly **accessible and unique web experiences**, then I can do it !. 🫀
+<p> 
+
+With over 4 years of experience( professional and unprofessional)  developing software, I have developed a deep and strong understanding of software development principles such as SOLID, YAGNI, KISS, and the use of Architecture to manage and reduce system complexity.
+
+I am an avid lover of Clean Code and Architecture proposed by Robert C. Martin and Test-Driven Development and often use them in projects I work on.
+My skills as a Software Developer are not tied to frameworks or libraries but rather I see them as necessary tools to get the job done hence I am a ridiculously fast learner when I have to use tools I am not familiar with. 
+
+</p>
+
 <br>
 
 <p align="left">
@@ -12,13 +20,6 @@ If it is about crafting highly **accessible and unique web experiences**, then I
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gyekye?color=green&logo=github">
   </a>
 </p>
-
-<br>
-
-### 🤳 Currently
-> What I am doing at the moment
-
-- :seedling: &nbsp; Building cross platform mobile apps with **flutter**
 
 <br>
 
@@ -59,15 +60,6 @@ If it is about crafting highly **accessible and unique web experiences**, then I
     </td>
   </tr>
 </table>
-
-<br>
-
-### ⏲️ Productiviy Metrics
-> Metrics from Wakatime
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 <br>
 
