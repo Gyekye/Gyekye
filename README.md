@@ -1,4 +1,4 @@
-### 😄 Hello, I'm Pinamamg
+### 🤗
 <p align="center">
 
   With over 2 years of experience developing software, I have developed a deep and strong understanding of software development principles such as SOLID, YAGNI, KISS, and the use of Architecture to manage and reduce system complexity.
