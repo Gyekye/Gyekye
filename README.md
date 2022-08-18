@@ -1,5 +1,5 @@
 ### 🤗
-<p align="center">
+<p align="left">
 
   With over 2 years of experience developing software, I have developed a deep and strong understanding of software development principles such as SOLID, YAGNI, KISS, and the use of Architecture to manage and reduce system complexity.
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Gyekye/Gyekye">
     <img src="https://komarev.com/ghpvc/?username=Gyekye" alt="page views" />
   </a>
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
     <table>
     <tr>
       <td align="center" width="96">
@@ -66,9 +66,9 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   Design. Build. Improve.
   </div>
   <br>
-  <div align='center' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=gyekye"> </div>
+  <div align='left' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=gyekye"> </div>
 </div>
