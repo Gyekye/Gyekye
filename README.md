@@ -64,8 +64,10 @@
   </table>
 </div>
 
-<br>
-  [![Gyekye's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gyekye&theme=xcode)](https://github.com/Gyekye)
+<!-- <div align="left">
+   [![Codeeblacc's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeeblacc&theme=xcode)] 
+</div>   -->
+
 <br>
 
 <div align="left">
