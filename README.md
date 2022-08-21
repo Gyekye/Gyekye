@@ -65,6 +65,8 @@
 </div>
 
 <br>
+  [![Gyekye's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gyekye&theme=xcode)](https://github.com/Gyekye)
+<br>
 
 <div align="left">
   Design. Build. Improve.
