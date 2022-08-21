@@ -62,8 +62,11 @@
       </td>
     </tr>
   </table>
+  <br>
+  <br>
 </div>
-<br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=epqmz9m2u8aalg9i1fw7ll1mh&cover_image=true&theme=novatorem&bar_color=74c69d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="left">
   <br>
