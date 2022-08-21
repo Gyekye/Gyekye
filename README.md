@@ -1,5 +1,13 @@
 ### 🤗
 <p align="left">
+  <a href="https://github.com/Gyekye/Gyekye">
+    <img src="https://komarev.com/ghpvc/?username=Gyekye" alt="page views" />
+  </a>
+  <a href="https://github.com/Gyekye?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gyekye?color=green&logo=github">
+  </a>
+</p>
+<p align="left">
 
   With over 2 years of experience developing software, I have developed a deep and strong understanding of software development principles such as SOLID, YAGNI, KISS, and the use of Architecture to manage and reduce system complexity.
 
@@ -11,15 +19,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=epqmz9m2u8aalg9i1fw7ll1mh&cover_image=true&theme=novatorem&bar_color=74c69d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
-
-<p align="left">
-  <a href="https://github.com/Gyekye/Gyekye">
-    <img src="https://komarev.com/ghpvc/?username=Gyekye" alt="page views" />
-  </a>
-  <a href="https://github.com/Gyekye?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gyekye?color=green&logo=github">
-  </a>
-</p>
 
 <div align="left">
     <table>
