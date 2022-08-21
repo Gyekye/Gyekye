@@ -63,16 +63,13 @@
     </tr>
   </table>
 </div>
-
-<!-- <div align="left">
-   [![Codeeblacc's github activity graph](https://activity-graph.herokuapp.com/graph?username=codeeblacc&theme=xcode)] 
-</div>   -->
-
 <br>
 
 <div align="left">
-  Design. Build. Improve.
-  </div>
   <br>
   <div align='left' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=gyekye"> </div>
+  <br>
+  <br>
 </div>
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=gyekye&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
