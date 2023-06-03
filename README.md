@@ -10,7 +10,7 @@
 </p>
 <p align="left">
 
-  With over two(2) years of experience developing software, I have developed a deep and strong understanding of software development principles such as SOLID, YAGNI, KISS, and the use of Architecture to manage and reduce system complexity.
+  With over 2.5 years of experience developing software, I have developed a deep and strong understanding of software development principles such as SOLID, YAGNI, KISS, and the use of Architecture to manage and reduce system complexity.
 
   I am an avid lover of Clean Code and Architecture proposed by Robert C. Martin and Test-Driven Development and often use them in projects I work on.
   My skills as a Software Developer are not tied to frameworks or libraries but rather I see them as necessary tools to get the job done hence I am a     ridiculously fast learner when I have to use tools I am not familiar with. 
