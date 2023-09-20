@@ -64,12 +64,3 @@
   </table>
   <br>
 </div>
-
-
-
-<div align="left">
-  <br>
-  <div align='left' style="margin: 0 auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=gyekye"> </div>
-  <br>
-  <br>
-</div>
